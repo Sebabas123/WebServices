@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">YALMALAY_app</string>
+    <string name="title_activity_inicio">inicio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_agenda">agenda</string>
+    <string name="title_activity_botoncitos">botoncitos</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_tablitas">tablitas</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_inicio_usuario">inicioUsuario</string>
+</resources>
